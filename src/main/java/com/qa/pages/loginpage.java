@@ -9,6 +9,10 @@ public class loginpage {
 		System.out.println("loginpage");
 		
 	}
+	public void loginset() {
+		
+		System.out.println("loginset");
+	}
 	
 	
 }
